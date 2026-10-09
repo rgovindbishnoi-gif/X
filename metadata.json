@@ -1,0 +1,7 @@
+{
+  "name": "Motorcycle Guide",
+  "description": "Complete motorcycle guide, maintenance tracker, interactive parts explorer, service reminders, and diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
